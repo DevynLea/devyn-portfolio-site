@@ -31,7 +31,14 @@ ul {
 }
 
   
-
+.profile-pic {
+  width:150px;
+  height:150px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin: 20px auto;
+}
 
   .projects {
     margin-top: 40px;
