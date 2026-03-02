@@ -1,5 +1,6 @@
 body {
   font-family: Arial, sans-serif;
+  background-color: navy;
   margin: 0 auto;
   padding: 30px;
   line-height: 1.6;
@@ -30,6 +31,10 @@ ul {
     
 }
 
+
+img {
+  width:50px;
+  
   
 .profile-pic {
   width:150px;
