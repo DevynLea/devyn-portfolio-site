@@ -27,10 +27,35 @@ ul {
 
   ul li {
     margin: 6px 0;
+    
 }
+
+  
 
 
   .projects {
     margin-top: 40px;
 
   }
+
+
+  .project 1 {
+    display: inline-block;
+    margin-top: 10px;
+    color: #0077cc;
+  }
+
+
+  .project 2 {
+    display: inline-block;
+    margin-top: 10px;
+    color: #0077cc;
+  }
+
+
+.project 3 {
+    display: inline-block;
+    margin-top: 10px;
+    color: #0077cc;
+
+}
